@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moriam Chowdhury</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
+<img align="right" alt="Coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTORQyxAoQMH_AmhhrUGZhrineBEMATLH1nF8-8vzut1A&s=10" alt="">
+
 
 - 🌱 I’m currently learning **javascript,typescript,React.js**
 
