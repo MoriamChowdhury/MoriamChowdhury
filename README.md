@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Moriam Chowdhury</h1>
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=+A+Passionate+Full-Stack+Developer;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+</p>
 <img align="right" alt="Coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTORQyxAoQMH_AmhhrUGZhrineBEMATLH1nF8-8vzut1A&s=10" alt="">
 
 
