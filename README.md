@@ -4,7 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=+A+Passionate+Full-Stack+Developer;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
+##  About Me
 
+Hi! I'm **Moriam Chowdhury**, a CSE student from Bangladesh with a growing passion for **web development, programming, and problem solving**. I enjoy creating interactive and meaningful web experiences while exploring modern technologies like **JavaScript, TypeScript, React, and Next.js**. I'm always curious to learn new things, turn ideas into projects, and continuously improve my skills through hands-on experience.
+
+##  Currently
 - 🌱 I’m currently learning **javascript,typescript,React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MoriamChowdhury](https://github.com/MoriamChowdhury)
@@ -14,12 +18,11 @@
 - 📫 How to reach me **moriam.tech@gmail.com**
 - Social link : **https://www.facebook.com/share/1HWeJbJ2hS/**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 <!--- technology --->
-### Languages:
+## Languages and Tools
+### Programming Languages:
 [![Languages](https://skillicons.dev/icons?i=c,cpp,html,css,javascript,typescript)](https://github.com/MoriamChowdhury)
 ### CSS Frameworks & Libraries:
 [![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/MoriamChowdhury)
