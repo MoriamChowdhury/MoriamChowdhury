@@ -12,6 +12,7 @@
 - 💬 Ask me about **html,css,Javascript,c++,competitive Programming**
 
 - 📫 How to reach me **moriam.tech@gmail.com**
+- Social link : **https://www.facebook.com/share/1HWeJbJ2hS/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
