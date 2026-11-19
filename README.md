@@ -15,9 +15,9 @@ Hi! I'm **Moriam Chowdhury**, a CSE student from Bangladesh with a growing passi
 
 - 💬 Ask me about **html,css,Javascript,c++,competitive Programming**
 
-- 📫 How to reach me **moriam.tech@gmail.com**
+- 📫 How to reach me Email: **moriam.tech@gmail.com**
 - Social link : **https://www.facebook.com/share/1HWeJbJ2hS/**
-
+- Portfolio : **https://portfolio-2sct.vercel.app/**
 
 
 <!--- technology --->
